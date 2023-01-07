@@ -93,6 +93,6 @@
     "start": " ./src/server.js"
     },
     "keywords": [],
-    "author": "",
+    "author": "Gisela Camacho",
     "license": "ISC"
 }
