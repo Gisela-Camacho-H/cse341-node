@@ -19,7 +19,7 @@ app.use((req, res, next) => {
     'GET, POST, PATCH, PUT, DELETE, OPTIONS'
   );
   next();
-});
+})
   .use('/', require('./routes'));
 
 mongodb.initDb((err, mongodb) => {
