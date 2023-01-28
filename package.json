@@ -20,7 +20,6 @@
   },
   "homepage": "https://github.com/Gisela-Camacho-H/cse341-node#readme",
   "dependencies": {
-    "cors": "^2.8.5",
     "dotenv": "^16.0.3",
     "express": "^4.17.3",
     "mongodb": "4.13",
